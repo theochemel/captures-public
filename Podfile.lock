@@ -1,0 +1,56 @@
+PODS:
+  - BrightFutures (7.0.0):
+    - Result (~> 4.0.0)
+  - DateToolsSwift (4.0.0)
+  - Digger (0.0.5)
+  - Google-Mobile-Ads-SDK (7.36.0)
+  - Hero (1.4.0)
+  - KeychainSwift (11.0.0)
+  - Kingfisher (4.10.1)
+  - Result (4.0.0)
+  - SkeletonView (1.4.1)
+  - SwiftyJSON (4.2.0)
+  - TransitionButton (0.5.2)
+
+DEPENDENCIES:
+  - BrightFutures
+  - DateToolsSwift
+  - Digger
+  - Google-Mobile-Ads-SDK
+  - Hero
+  - KeychainSwift (~> 11.0)
+  - Kingfisher (~> 4.0)
+  - SkeletonView
+  - SwiftyJSON (~> 4.0)
+  - TransitionButton
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BrightFutures
+    - DateToolsSwift
+    - Digger
+    - Google-Mobile-Ads-SDK
+    - Hero
+    - KeychainSwift
+    - Kingfisher
+    - Result
+    - SkeletonView
+    - SwiftyJSON
+    - TransitionButton
+
+SPEC CHECKSUMS:
+  BrightFutures: 7d7436e937dfc83d814c11920f157fc2a53f5bd5
+  DateToolsSwift: 875d97ff9e3a5d54abdd67a269b3f51c757b71ab
+  Digger: c474bde76a91e0a36f12101c5dfe7e86774b15d3
+  Google-Mobile-Ads-SDK: 5bb4d2cea811842e104a24780caef63b4808e1bd
+  Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
+  KeychainSwift: bea6bd9f98af7b8d7ca4aa79fe105c00fab532db
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  Result: 7645bb3f50c2ce726dd0ff2fa7b6f42bbe6c3713
+  SkeletonView: 60d6ce7edb0cb4c7758db33c74add50392b3c475
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+  TransitionButton: fb271583d9c9e4bb116b97103047e5157653f233
+
+PODFILE CHECKSUM: d68ec47a3f24ff2793da09d9630f13c1d9aecce4
+
+COCOAPODS: 1.5.3
